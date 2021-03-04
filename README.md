@@ -2,8 +2,9 @@
 
 # Disclaimer
 
-This is directly ported from `hapi/joi` but removed `hoek` and some methods to make it works with React Native.
-Fork of react-native-joi and remove cycle.
+- Fork of react-native-joi and remove cycle.
+- Please check the original git for issues or inquiries
+- This is directly ported from `hapi/joi` but removed `hoek` and some methods to make it works with React Native.
 
 ## Notable changes
 
